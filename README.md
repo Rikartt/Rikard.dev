@@ -4,4 +4,5 @@ This is the code for my homepage/resume website Rikard.dev. I'm gonna use HTML c
 
 ## ROADMAP
 
-[ ] Add basic boilerplate structure
+- [ ] Add basic boilerplate structure
+- [ ] Complete Website
